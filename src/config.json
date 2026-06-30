@@ -1,11 +1,11 @@
 {
-  "token": "YOUR_BOT_TOKEN",
+  "token": "MTUxNTcyMjY3MTYzODQ0NjI0MA.G3KgRP.epo9HezegPjXU3g7jO2X-Si9NPZ2-Y5aEcLPFk",
   "prefix": ".",
   "ownerID": [
-    "YOUR_USER_ID"
+    "1339931645326917703"
   ],
-  "SpotifyID": "85aab1d51a174aad9eed6d7989f530e6",
-  "SpotifySecret": "b2ad05aa725e434c88776a1be8eab6c",
+  "SpotifyID": "699e7d2c36924e688112eb744278f524",
+  "SpotifySecret": "067bd5a04c7146f0806a440f6e8b6ba3",
   "LastFmKey": "892ec4bdf3b1ea3aa74353988aaa4ee1",
   "LastFmSecret": "ac670032b9e8f4f96734e8f413b9488c",
   "color": "#00D4FF",
